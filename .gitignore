@@ -1,0 +1,7 @@
+node_modules
+.DS_Store
+*.log
+
+# Postgres docker volume data is managed by the named volume, not bind-mounted,
+# so nothing to ignore here — kept for anyone who switches to a bind mount later.
+/pgdata
