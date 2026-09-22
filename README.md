@@ -1,4 +1,4 @@
-# Scaffold
+# Nuxt / Adonis Backend
 
 Nuxt 4 + AdonisJS + Drizzle + Postgres + Stripe, wired end-to-end so you can
 clone this and start building a real idea within minutes instead of re-solving
